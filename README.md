@@ -33,5 +33,5 @@ El mercado del streaming está en plena "guerra", con plataformas compitiendo fe
 
 ### 3. **Análisis de calidad de contenido (a través de reseñas)**:
 
-- **Pregunta clave**: ¿Cuál es la calidad percibida de los catálogos en función de las reseñas de IMDB?
+- **Pregunta clave**: ¿Cuál es la calidad percibida de los catálogos en función de las reseñas?
 - **Análisis**: Comparar las valoraciones de los usuarios en Rotten Tomatoes para Netflix y Disney+. Queremos ver cuál es la variación en cada plataforma y si es verdad que Disney+ destaca por la calidad de sus contenidos infantiles.
