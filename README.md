@@ -35,3 +35,6 @@ El mercado del streaming está en plena "guerra", con plataformas compitiendo fe
 
 - **Pregunta clave**: ¿Cuál es la calidad percibida de los catálogos en función de las reseñas?
 - **Análisis**: Comparar las valoraciones de los usuarios en Rotten Tomatoes para Netflix y Disney+. Queremos ver cuál es la variación en cada plataforma y si es verdad que Disney+ destaca por la calidad de sus contenidos infantiles.
+
+### Streamlit
+Dejamos aquí el enlace al GitHub de nuestra aplicación de Streamlit, en la que hemos compartido un resumen de nuestro análisis de datos: https://github.com/Tiana889/Netflix_vs_disney
